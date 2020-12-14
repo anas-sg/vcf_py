@@ -22,3 +22,6 @@ Run the `vcf.py` script from the Terminal/Command Prompt:
 python vcf.py
 ```
 Assuming the CSV file is in the same folder as `vcf.py`, the script would automatically detect the CSV file and attempt to read from it.
+
+## Test
+A sample CSV file titled `contacts.csv` is given in this repository. It contains some real telephone numbers from the various offices of NUS, taken from [title]http://www.nus.edu.sg/contact. Open it using Excel and a text editor to take a look. Try running `vcf.py` and ensure that `contacts.vcf` is generated.
