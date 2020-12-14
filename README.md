@@ -11,7 +11,8 @@ name2,number2
 ...
 ```
 - Ensure that the **names and numbers do not contain any commas**. 
-- Column A should contain the names and column B should contain the corresponding numbers. 
+- Column A should contain the names and column B should contain the corresponding numbers.
+- The rest of the columns must be empty 
 - The columns must not have headings, i.e. row 1 will be assumed to be the contact for the first person.
 - The CSV file containing the contact information should be in the same folder as `vcf.py`
 
